@@ -1,4 +1,0 @@
-print("A 'single quote' inside  a double quote")
-print('A "double quote" inside a dingle quote')
-print("U can also \"escape\" the quote") 
-# \ kinda makes the code ignore the next character so the computer just print it as text too
